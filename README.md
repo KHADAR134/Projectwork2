@@ -65,12 +65,19 @@ By incorporating these features, the weapon detection system deploying YOLO for 
 
 ## Results and Impact
 1)Implementing a YOLO-based weapon detection system in live streams and videos enhances security by swiftly identifying weapons.
+
 2)Email notifications promptly alert authorities, enabling rapid response to potential threats.
+
 3)Users experience heightened safety and peace of mind in public spaces and sensitive environments.
+
 4)Real-time monitoring fosters proactive measures against violence and unlawful activities.
+
 5)The system minimizes human error and improves overall surveillance efficacy.
+
 6)It empowers law enforcement to intervene swiftly, preventing potential harm.
+
 7)Public trust in safety measures is bolstered, fostering a sense of security and wellbeing.
+
 8)Ultimately, the integration of YOLO technology enhances situational awareness and promotes safer communities.
 
 ## Articles published / References
