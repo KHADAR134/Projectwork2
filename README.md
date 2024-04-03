@@ -75,12 +75,19 @@ By incorporating these features, the weapon detection system deploying YOLO for 
 
 ## Articles published / References
 [1] P. Mohanty, A. Tushir, and A. Patwardhan, "Weapon detection in surveillance videos using YOLO v3," in 2019 3rd International Conference on Computing Methodologies and Communication (ICCMC), 2019, pp. 1204-1208.Link: https://ieeexplore.ieee.org/document/8930745
+
 [2]  S. E. Elmahmoud, A. E. Hassanien, and A. S. Elmahallawy, "Firearm detection in videos using deep learning," in 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2019, pp. 3854-3859.Link: https://ieeexplore.ieee.org/document/8914411
+
 [3]  S. Al-Din, M. F. Fazal, and M. Arif, "Firearm detection in videos using deep learning," in 2020 8th IEEE International Conference on Engineering Technologies and Applied Sciences (ICETAS), 2020, pp. 1-6.Link: https://ieeexplore.ieee.org/document/9333619
+
 [4]  H. Yuan, H. Xia, J. Wu, Z. Wang, and Z. Yang, "Firearm detection in surveillance videos based on YOLOv3," in 2021 4th International Conference on Mechatronics, Control and Robotics (ICMCR), 2021, pp. 242-246.Link: https://ieeexplore.ieee.org/document/9392905
+
 [5]  A. Khokhar, M. A. Khan, M. Arif, and S. Iqbal, "Firearm detection in surveillance videos using deep learning," in 2020 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW), 2020, pp. 1-4.Link: https://ieeexplore.ieee.org/document/9259631
+
 [6]  S. O. Vimal, R. Rekha, and S. S. Vinay, "Gun detection using deep learning techniques," in 2021 4th International Conference on Intelligent Sustainable Systems (ICISS), 2021, pp. 2295-2300.Link: https://ieeexplore.ieee.org/document/9436266
+
 [7]  V. Agarwal, S. M. Ak, R. Kumari, and P. Tripathi, "Firearm detection in video surveillance using deep learning techniques," in 2020 3rd International Conference on Computing, Communication and Security (ICCCS), 2020, pp. 1-6.Link: https://ieeexplore.ieee.org/document/9189023
+
 [8]  X. Zheng, J. Zhang, and L. Zhu, "Firearm detection based on improved YOLOv3," in 2021 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR), 2021, pp. 284-289.Link: https://ieeexplore.ie
 
 
